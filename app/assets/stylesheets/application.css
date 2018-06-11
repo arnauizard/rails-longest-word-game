@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+ul {
+  display:inline;
+  padding: 40px;
+  font-size: 40px;
+  font: arial;
+
+}
+
+
+form {
+  margin-left: 450px;
+  margin-top: 80px;
+
+}
+
+h1 {
+  margin-left: 460px;
+  margin-bottom: 80px;
+  font-size: 40px;
+  font: arial;
+}
+
+button {
+
+}
